@@ -19,7 +19,7 @@ describe('İlk test',()=>{
 
 
 
-     ////SANITY TEST SENARYOSU 1////
+     ////SANITY TEST ////
      it('ana sayfanin yüklenmesi',()=>{
 
             cy.viewport("macbook-16")
