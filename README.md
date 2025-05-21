@@ -1,2 +1,2 @@
 # CypressTest
- Test scenarios with Cypress
+ Test cases with Cypress
