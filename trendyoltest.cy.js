@@ -4,7 +4,7 @@ import { describe } from "mocha";
 
 describe('İlk test',()=>{
 
-     ////TEST SENARYOSU 1////  
+     ////////  
      it('ürün arama testi',()=>{
 
             cy.viewport("macbook-16")
@@ -19,7 +19,7 @@ describe('İlk test',()=>{
 
 
 
-     ////SANITY TEST ////
+     ////////
      it('ana sayfanin yüklenmesi',()=>{
 
             cy.viewport("macbook-16")
@@ -50,7 +50,7 @@ describe('İlk test',()=>{
 })       
 
 
-    ////TEST SENARYOSU 2////
+    ///////
     it('giris yapma testi',()=>{
 
            cy.viewport("macbook-16")
@@ -68,7 +68,7 @@ describe('İlk test',()=>{
 
 
 
-    ////TEST SENARYOSU 3////
+    ///////
     it('alisveris yapma testi',()=>{
  
           cy.viewport("macbook-16")
